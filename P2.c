@@ -1,3 +1,4 @@
+//Aluna: Livia Gabrielle Vaz Ferreira   Matricula: 11721EBI009
 #include <stdio.h>
 #include <math.h>
 
